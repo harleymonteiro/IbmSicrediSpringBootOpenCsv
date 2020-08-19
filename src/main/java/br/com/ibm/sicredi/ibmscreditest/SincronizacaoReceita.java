@@ -25,7 +25,7 @@ import org.springframework.context.annotation.Bean;
  * @obs: Esse app foi feito baseado no código do @author gabriel_stabel<gabriel_stabel@sicredi.com.br>
  *
  * 
- * @version  1.0
+ * @version  1.0.0
  * @author Harley Nogueira Monteiro
  * @e-mail harleymonteiro@gmail.com
  * @descrição: Essa classe é a principal, pois o app é iniciado por ela.
