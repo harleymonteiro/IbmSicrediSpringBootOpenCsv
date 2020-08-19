@@ -1,0 +1,6 @@
+resultado;agencia;conta;saldo;status;tempo;descricao
+OK;1010;12225-6;100,00;A;2394;Atualizado com sucesso.	Agência: OK	Conta: OK	Saldo: OK	TipoStatus: OK	Tempo: 2394	Descricao: OK
+FALHOU;110;12226;320*0,50;T;3922;Falhou: O número da Agência está diferente de 4 dígitos.	O Número da conta está diferente de 6 dígitos.	O valor do saldo não está válido.	O tipo de status cadastrado não é válido.	Tempo: 3922
+OK;3202;40011-9;-35,12;I;2861;Atualizado com sucesso.	Agência: OK	Conta: OK	Saldo: OK	TipoStatus: OK	Tempo: 2861	Descricao: OK
+OK;3202;54001-2;0,00;P;3702;Atualizado com sucesso.	Agência: OK	Conta: OK	Saldo: OK	TipoStatus: OK	Tempo: 3702	Descricao: OK
+OK;3202;00321-2;34500,00;B;4922;Atualizado com sucesso.	Agência: OK	Conta: OK	Saldo: OK	TipoStatus: OK	Tempo: 4922	Descricao: OK
